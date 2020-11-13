@@ -1,0 +1,21 @@
+/* comment */
+body {
+    background-color: blue;
+}
+.css-classes {
+    background-color: lightgray;
+}
+.css-classes h1{
+    font-size: 18px
+}
+.css-classes p{
+    font-size: 16px;
+    color: #C97765;
+}
+.css-classes li{
+    color: navy;
+}
+
+.wrapper {
+    border: 10px solid red;
+}
